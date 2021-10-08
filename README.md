@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on Android Development.
+- 🔭 I’m currently working on Android App Development.
 
 ![Amritanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=amritanshu786&show_icons=true&theme=radical)
 
